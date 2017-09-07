@@ -1,0 +1,22 @@
+.text-l{
+   /*//text-align: left;*/
+    display: block;
+    padding: 10px;
+    word-wrap: break-word;
+    color: dodgerblue;
+}
+
+.text-r{
+    /*text-align: right;*/
+    display: block;
+    padding: 10px;
+    word-wrap: break-word;
+    color: darkgoldenrod;
+
+}
+#chat_room {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    text-align: left;
+}
