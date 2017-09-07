@@ -1,0 +1,12 @@
+{
+  "name": "ChatDemo",
+  "version": "0.0.1",
+  "description": "App",
+  "dependencies": {
+    "socket.io": "latest"
+  },
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "author": "thong"
+}
